@@ -1,0 +1,90 @@
+body{
+    empty-cells: hide;
+    background-color: #7c3163;
+}
+
+table{
+    border: hidden;
+    box-shadow: 3px 3px 3px;
+   
+ 
+
+}
+
+.one {
+    background-color: blueviolet;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px;
+}
+
+.one:hover{
+    transform:scale(2)
+}
+
+.two{
+    background-color: aquamarine;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px;
+}
+.two:hover{
+    transform:scale(2)
+}
+
+.three{
+    background-color: green;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px;
+}
+.three:hover{
+    transform:scale(2)
+}
+
+.four{
+    background-color: yellow;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px;
+}
+.four:hover{
+    transform:scale(2)
+}
+
+.five{
+    background-color: blue;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px;
+}
+.five:hover{
+    transform:scale(2)
+}
+
+.six{
+    background-color: palevioletred;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px;
+}
+.six:hover{
+    transform:scale(2)
+}
+
+.seven{
+    background-color: purple;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px;
+}
+.seven:hover{
+    transform:scale(2)
+    
+}
+
+.eight{
+    background-color: orangered;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px;
+}
+.eight:hover{
+    transform:scale(2)
+}
+
+.color{
+    background-color: #ac4cc4;
+}
